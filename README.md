@@ -7,3 +7,8 @@ Get the NOAA data from
 
 https://www.ngdc.noaa.gov/mgg/greatlakes/ontario.html
 https://www.ngdc.noaa.gov/mgg/greatlakes/ontario/data/arc_ascii/ontario_lld.asc.tar.gz
+
+
+![Bathymetry](ontario_lld.png)
+![Bathymetry as stl](ontario_lld_stl.png)
+
